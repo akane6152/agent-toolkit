@@ -1,6 +1,6 @@
 {
   "name": "agent-toolkit",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Collection of resources to help AI agents build better with Sanity.",
   "main": "src/index.js",
   "scripts": {
